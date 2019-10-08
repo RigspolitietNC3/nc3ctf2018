@@ -1,6 +1,6 @@
 # Fi1eCrypter
 
-[Download](bin/ransomware_fi1ecrypter.zip)
+[Download](../bin/ransomware_fi1ecrypter.zip)
 
 **Mål:** Analysere simpel krypteringsalgoritme som i [Små Skridt](reversing_små-skridt.html.md), men i maskinkode til PC, uden debug symboler.
 
