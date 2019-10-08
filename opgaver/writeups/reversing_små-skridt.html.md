@@ -1,6 +1,6 @@
 # reversing_små-skridt.html
 
-[Download](bin/reversing_små-skridt.html)
+[Download](../bin/reversing_små-skridt.html)
 
 **Mål:** Introducerer Base64 og XOR, samt forståelsen af at vende en algoritme om (reversing).
 
