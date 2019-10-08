@@ -1,0 +1,31 @@
+<!DOCTYPE html />
+<meta charset="UTF-8">
+<html>
+<body>
+
+<script>
+	function reverseString(input) {
+		return input.split('').reverse().join('');
+	}
+
+	function OnClick()
+	{
+		var flagValue = document.getElementById("flagInput").value;
+
+		if (reverseString(flagValue) == '}tlepmis_aas{3CN')
+		{
+			alert('Du fandt flaget');
+		}
+		else
+		{
+			alert('Prøv igen');
+		}
+	}
+</script>
+
+
+<input type="text" id="flagInput" value="Indtast flaget:" />
+<input type="button" onclick="OnClick();" />
+
+</body>
+</html>

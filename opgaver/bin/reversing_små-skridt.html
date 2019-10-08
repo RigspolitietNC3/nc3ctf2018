@@ -1,0 +1,34 @@
+<!DOCTYPE html />
+<meta charset="UTF-8">
+<html>
+<body>
+
+<script>
+	function OnClick()
+	{
+		var flagValue = document.getElementById("flagInput").value;
+		var xorFlag = '';
+		for (var i = 0; i < flagValue.length; i++)
+		{
+			xorFlag += String.fromCharCode(128 ^ flagValue.charCodeAt(i));
+		}
+
+		if (xorFlag == atob("zsOz+/Nl3+Xy3/bp3+nf5+Hu5/0="))
+		{
+			alert('Du fandt flaget');
+		}
+		else
+		{
+			alert('Prøv igen');
+		}
+
+		console.log(xorFlag);
+	}
+</script>
+
+
+<input type="text" id="flagInput" value="Indtast flaget:" />
+<input type="button" onclick="OnClick();" />
+
+</body>
+</html>
