@@ -1,6 +1,6 @@
 # reversing_indledning.html
 
-[Download](bin/reversing_indledning.html)
+[Download](../bin/reversing_indledning.html)
 
 **Mål:** Give alle en chance for at kunne løse en opgave
 
