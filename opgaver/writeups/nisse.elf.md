@@ -1,6 +1,6 @@
 # nisse.elf
 
-[Download](bin/nisse.elf)
+[Download](../bin/nisse.elf)
 
 **Mål:** Introducerer reversing af eksekverbare filer (programmer).
 
