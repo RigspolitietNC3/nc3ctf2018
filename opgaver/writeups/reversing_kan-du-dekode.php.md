@@ -1,6 +1,6 @@
 # reversing_kan-du-dekode.php
 
-[Download](bin/reversing_kan-du-dekode.php)
+[Download](../bin/reversing_kan-du-dekode.php)
 
 **Mål:** Tænke kreativt omkring dekodning af krypterede data.
 
