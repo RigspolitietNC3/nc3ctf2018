@@ -46,9 +46,9 @@ Deltagerene fik opgaver i forskellige kategorier. Efter konkurrencen var alle op
 
 # Officielle Writeups
 
-[Reversing - Indledning](opgaver/writeups/reversing_indledning.md)
+[Reversing - Indledning](opgaver/writeups/reversing_indledning.html.md)
 
-[Reversing - Små Skridt](opgaver/writeups/reversing_små-skridt.md)
+[Reversing - Små Skridt](opgaver/writeups/reversing_små-skridt.html.md)
 
 [Reversing - nisse.elf](opgaver/writeups/nisse.elf.md)
 
