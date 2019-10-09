@@ -68,6 +68,8 @@ https://github.com/NicolaiSoeborg/ctf-writeups/tree/master/2018/NC3%20Jule%20CTF
 
 https://github.com/kkthxbye-code/NC3-CTF-2018-Writeup
 
+https://github.com/svindlerdk/ctf-writeups/tree/master/nc3ctf2018
+
 
 ## Community Writeups - NC3.jpg
 
